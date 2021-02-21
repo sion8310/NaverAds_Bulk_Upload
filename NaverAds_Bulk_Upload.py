@@ -18,8 +18,6 @@ pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 500)
 
 print("네이버 키워드 대량 등록 프로그램")
-print("문의: 이시온\nEmail: Sion.Lee@iprospect.com\nHP: 010-3277-4656\n\n")
-
 
 # Naver Signature
 class Signature:
